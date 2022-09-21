@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DefaultGEProperties><OneGEProPerties ObjType="3" PartType="20"><PLCProperties Pripority="" Description=""><InPutData Pripority="1" AddrType="5" AddrTypeName="VW" CodeType="0" WordNum="2" PLCAddr="3660" MaskValType="1" bUseAddrTag="0" PLCID="0"/><OutPutData Pripority="1" AddrType="5" AddrTypeName="VW" CodeType="0" WordNum="2" PLCAddr="3660" MaskValType="1" bUseAddrTag="0" PLCID="0"/></PLCProperties><ShapeProperties bUseVG="1" VGName="DISP_BAR002.vg" BUseBG="0" BGName=""/></OneGEProPerties></DefaultGEProperties>
